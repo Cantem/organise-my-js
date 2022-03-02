@@ -1,4 +1,4 @@
-# Orginse-my-js
+# Organise-my-js
 
 This project was bootstrapped with [Learn](https://github.com/lerna/lerna) and [Create React App](https://github.com/facebook/create-react-app). It is an extension of [jbook](https://github.com/Cantem/jbook) project.
 
@@ -20,7 +20,7 @@ Start local-api server.
 
 Start local-api server and load file.
 
-`omjs serve --port <PORT>`
+`omjs serve --port <number>` or `omjs serve -p <number>`
 
 Start local-api server on a desired port.
 
