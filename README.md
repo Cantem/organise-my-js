@@ -30,9 +30,11 @@ Start local-api server on a desired port.
 
 ## Available Scripts
 
+This project is using lerna to manage packages. Before you run `npm run start` that starts all packages in parallel, you should `cd` to `/packages/local-client` and run `npm install`.
+
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the jbook app, cli and local-api in the development mode in parallel.\
+Runs the jbook app (local-client) and local-api in the development mode in parallel.
 UI is available at [http://localhost:3000](http://localhost:3000).
