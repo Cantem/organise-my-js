@@ -12,17 +12,19 @@
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "tsc"
+    "prepublishOnly": "esbuild src/index.ts --platform=node --outfile=dist/index.js --bundle --minify --define:process.env.NODE_ENV=\\\"production\\\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^9.0.0",
-    "@javascriptdocs/local-api": "^1.0.0"
+    "@javascriptdocs/local-client": "^1.0.0"
   },
   "devDependencies": {
+    "@javascriptdocs/local-api": "^1.0.0",
     "@types/node": "^17.0.21",
+    "commander": "^9.0.0",
+    "esbuild": "0.8.26",
     "typescript": "^4.6.2"
   }
 }
