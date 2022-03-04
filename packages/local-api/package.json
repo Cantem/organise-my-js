@@ -20,6 +20,7 @@
     "@fortawesome/fontawesome-free": "^6.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "http-proxy-middleware": "^2.0.3"
+    "http-proxy-middleware": "^2.0.3",
+    "local-client": "^0.1.0"
   }
 }
