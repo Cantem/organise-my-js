@@ -22,3 +22,7 @@ Run package on the default port locally.
 ### `npx javascriptdocs --help`
 
 See available scripts
+
+## Example use
+
+![Screenshot 2022-03-05 at 19 10 52](https://user-images.githubusercontent.com/36113728/156897086-24677271-d317-4cc5-98cf-5d94270e2523.png)
