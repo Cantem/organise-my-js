@@ -12,3 +12,7 @@ In the project directory, you can run:
 
 Runs the jbook app (local-client) and local-api in the development mode in parallel.
 UI is available at [http://localhost:3000](http://localhost:3000).
+
+For local development you can use `cli` folder and start local-api from there by running:
+
+`node idex.js serve`
