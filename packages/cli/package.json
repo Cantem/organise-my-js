@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@javascriptdocs/local-client": "^1.0.0"
+    "@javascriptdocs/local-client": "^1.0.1"
   },
   "devDependencies": {
-    "@javascriptdocs/local-api": "^1.0.0",
+    "@javascriptdocs/local-api": "^1.0.1",
     "@types/node": "^14.14.22",
     "commander": "^7.0.0",
     "esbuild": "0.8.26",
