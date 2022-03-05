@@ -1,6 +1,6 @@
 {
   "name": "javascriptdocs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -25,5 +25,6 @@
     "commander": "^7.0.0",
     "esbuild": "0.8.26",
     "typescript": "^4.1.3"
-  }
+  },
+  "gitHead": "047e9dd54af629f808c5593cfcd4626da9657e64"
 }
