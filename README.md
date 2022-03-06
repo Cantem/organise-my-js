@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Learn](https://github.com/lerna/lerna) and [Create React App](https://github.com/facebook/create-react-app). It is an extension of [jbook](https://github.com/Cantem/jbook) project.
 
+Organise-my-js is aslo available as an npm package [javascriptdocs](https://www.npmjs.com/package/javascriptdocs)
+
 ## Available Scripts
 
 This project is using lerna to manage packages. Before you run `npm run start` that starts all packages in parallel, you should `cd` to `/packages/local-client` and run `npm install`.
